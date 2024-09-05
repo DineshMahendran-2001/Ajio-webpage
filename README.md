@@ -23,4 +23,4 @@ This project is a static clone of the Ajio webpage, created using HTML, CSS, and
 - This project was created as a learning exercise to enhance my HTML, CSS, and JavaScript skills.
 
 # Contact
-For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](dineshmahendran2001@gmail.com).
+For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](mailto:dineshmahendran2001@gmail.com).
