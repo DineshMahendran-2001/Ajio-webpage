@@ -1,4 +1,4 @@
-# Ajio Webpage Clone
+# Ajio Webpage
 
 # Project Description
 This project is a static clone of the Ajio webpage, created using HTML, CSS, and JavaScript. The purpose of this project is to replicate the design and layout of the official Ajio webpage, showcasing my front-end development skills and understanding of responsive design.
