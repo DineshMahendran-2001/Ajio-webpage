@@ -1,7 +1,7 @@
 # Ajio Webpage
 
 # Project Description
-This project is a static clone of the Ajio webpage, created using HTML, CSS, and JavaScript. The purpose of this project is to replicate the design and layout of the official Ajio webpage, showcasing my front-end development skills and understanding of responsive design.
+This project is a static copy of the Ajio webpage, created using HTML, CSS, and JavaScript. The purpose of this project is to replicate the design and layout of the official Ajio webpage, showcasing my front-end development skills and understanding of responsive design.
 
 # Features
 - Static Design: The project replicates the appearance of the Ajio webpage, including its layout, colors, and fonts.
@@ -14,7 +14,7 @@ This project is a static clone of the Ajio webpage, created using HTML, CSS, and
 - JavaScript
 
 # Note
-- This project is a static clone and does not include any backend functionality. Users cannot interact with the page beyond its visual representation.
+- This project is a static copy and does not include any backend functionality. Users cannot interact with the page beyond its visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
 [https://github.com/DineshMahendran-2001/Ajio-webpage.git](https://github.com/DineshMahendran-2001/Ajio-webpage.git)
 
